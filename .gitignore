@@ -1,0 +1,12 @@
+# virtual env
+.venv/
+# data
+data/raw/
+data/processed/
+# notebooks' autosave junk
+.ipynb_checkpoints/
+# OS/editor
+.DS_Store
+*.log
+# Jupyter kernel metadata in notebooks (optional, keeps diffs clean)
+**/.ipynb_checkpoints
