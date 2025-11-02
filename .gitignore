@@ -1,8 +1,5 @@
 # virtual env
 .venv/
-# data
-data/raw/
-data/processed/
 # notebooks' autosave junk
 .ipynb_checkpoints/
 # OS/editor
