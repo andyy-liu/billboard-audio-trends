@@ -1,0 +1,14 @@
+# Core scientific/data stack
+pandas
+numpy
+scipy
+seaborn
+
+# Visualization
+matplotlib
+
+# Notebook environment
+jupyter
+
+# File and path handling (built into Python, but some systems need this)
+pathlib
