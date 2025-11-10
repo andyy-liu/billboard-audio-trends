@@ -1,11 +1,5 @@
-# Billboard Audio Trends (Top 50)
+# Billboard Audio Trends
 
 **Goal:** Analyze audio-feature trends of Top-50 Billboard songs over time and across eras.
 
-## How to run
-
-1. Create a virtual env and install requirements:
-   ```bash
-   python -m venv .venv && source .venv/bin/activate
-   pip install -r requirements.txt
-   ```
+Check out my full report here: https://chestnut-hisser-b2b.notion.site/Fifty-Years-of-Sound-2a7df9b1d48180e8bac7f569f90dbfae?pvs=143
